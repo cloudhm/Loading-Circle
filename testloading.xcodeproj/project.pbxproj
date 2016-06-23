@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		610CC6DA1D1BA64200FED064 /* test-1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 610CC6D91D1BA64200FED064 /* test-1.gif */; };
 		614CBB451D198AB300FB8157 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 614CBB441D198AB300FB8157 /* main.m */; };
 		614CBB481D198AB300FB8157 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 614CBB471D198AB300FB8157 /* AppDelegate.m */; };
 		614CBB4B1D198AB300FB8157 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 614CBB4A1D198AB300FB8157 /* ViewController.m */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		610CC6D91D1BA64200FED064 /* test-1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "test-1.gif"; sourceTree = "<group>"; };
 		614CBB401D198AB300FB8157 /* testloading.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testloading.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		614CBB441D198AB300FB8157 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		614CBB461D198AB300FB8157 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				614CBB4A1D198AB300FB8157 /* ViewController.m */,
 				614CBB5A1D198ADF00FB8157 /* LoadingView.h */,
 				614CBB5B1D198ADF00FB8157 /* LoadingView.m */,
+				610CC6D91D1BA64200FED064 /* test-1.gif */,
 				614CBB4C1D198AB300FB8157 /* Main.storyboard */,
 				614CBB4F1D198AB300FB8157 /* Assets.xcassets */,
 				614CBB511D198AB300FB8157 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				610CC6DA1D1BA64200FED064 /* test-1.gif in Resources */,
 				614CBB531D198AB300FB8157 /* LaunchScreen.storyboard in Resources */,
 				614CBB501D198AB300FB8157 /* Assets.xcassets in Resources */,
 				614CBB4E1D198AB300FB8157 /* Main.storyboard in Resources */,
@@ -306,6 +310,7 @@
 				614CBB591D198AB300FB8157 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
